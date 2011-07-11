@@ -1,5 +1,5 @@
 === pMailer Campaign Archive ===
-Contributors: Prefix Technologies
+Contributors: Pmailer
 Donate link: http://www.pmailer.co.za/
 Tags: pmailer, email, newsletter, archiver, archive
 Requires at least: 3.0
