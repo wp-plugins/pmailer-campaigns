@@ -3,8 +3,8 @@ Contributors: Pmailer
 Donate link: http://www.pmailer.co.za/
 Tags: pmailer, email, newsletter, archiver, archive
 Requires at least: 3.0
-Tested up to: 3.1.3
-Stable tag: 0.1 
+Tested up to: 3.3.1
+Stable tag: 0.2 
 
 == Description ==
 
@@ -41,9 +41,17 @@ yes, the messages displayed are in-bedded into the html code and can be be index
 
 == Upgrade Notice ==
 
+= 0.2 =
+* No upgrade information available.
+
 = 0.1 =
 * Initial release, no upgrade information available.
 
 == Change Log ==
 
-Initial release.
+= 0.2 =
+* Renamed potentially conflicting class names.
+
+= 0.1 =
+* Initial release.
+

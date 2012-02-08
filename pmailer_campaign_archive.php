@@ -3,7 +3,7 @@
 Plugin Name: pMailer Campaign Archive
 Plugin URI: http://www.pmailer.co.za/
 Description: Adds a paginated list of sent messages to a page or post
-Version: 0.1
+Version: 0.2
 Author: pMailer
 Author URI: http://www.prefix.co.za
 License: GPL
