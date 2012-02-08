@@ -223,12 +223,12 @@ class PMailerSubscriptionException extends Exception
     }
 }
 
-class pMailerpMailerIXR_Value
+class pMailerIXR_Value
 {
     var $data;
     var $type;
 
-    function pMailerpMailerIXR_Value($data, $type = false)
+    function pMailerIXR_Value($data, $type = false)
     {
         $this->data = $data;
         if (!$type) {
@@ -236,7 +236,7 @@ class pMailerpMailerIXR_Value
         }
         $this->type = $type;
         if ($type == 'struct') {
-            // Turn all the values in the array in to new pMailerpMailerIXR_Value objects
+            // Turn all the values in the array in to new pMailerIXR_Value objects
             foreach ($this->data as $key => $value) {
                 $this->data[$key] = new pMailerIXR_Value($value);
             }
